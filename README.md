@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jillian Wildrick
 
-<!--
-**jillianwildrick/jillianwildrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Health informatics professional in transition | MS Chemistry | 
+Public health data | Python | FHIR
 
-Here are some ideas to get you started:
+## What I'm building toward
+Developing expertise in health data systems and informatics, 
+with a focus on making complex population health data visible, 
+meaningful, and actionable through interactive visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- MS & BS Chemistry
+- Salesforce Administrator
+- Public health data collection — CDC BRFSS surveillance system
+- Formal computer science training
+
+## Currently learning
+- Python for health data analysis
+- Plotly & Dash for interactive visualization
+- FHIR health data standards (Georgia Tech)
+
+## Interests
+Building infrastructure that is solid, dependable, and meant to last.
